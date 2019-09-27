@@ -1,6 +1,6 @@
 # Completing and Submitting Coding Assignments Lab
 
-**Note:** A video walk-through of this assignment entitled, *Process for Completing and Submitting Coding Assignments*, is available in Blackboard under Java IV Programming -> Our Classroom -> Before you begin.
+**Note:** A video walk-through of this assignment entitled, *Process for Completing and Submitting Coding Assignments*, is available in Blackboard under Special Topics in Software Engineering -> Our Classroom -> Before you begin.
 
 # Instructions
 
@@ -9,7 +9,7 @@
 Normally, everyone on a team works off a shared repository that functions as the hub for collaboration and communication. In a classroom setting, you will need to keep your work private to prevent others from unfairly benefiting from your awesomeness. In this step you will create a private GitHub repository from a base template which I provide.
 
 1. If necessary, login to your personal GitHub account
-1. Visit the following URL to create a personal repository based on the base template: [https://github.com/jeff-anderson-cscc/lab0-completing-and-submitting-assignments/generate](https://github.com/jeff-anderson-cscc/lab0-completing-and-submitting-assignments/generate) 
+1. Visit the following URL to create a personal repository based on the base template: [https://github.com/jschmersal-cscc/lab0-completing-and-submitting-assignments/generate](https://github.com/jschmersal-cscc/lab0-completing-and-submitting-assignments/generate) 
 1. Enter ``lab0-completing-and-submitting-assignments`` for the repository name
 1. **Important:** Click "Private" to keep others from viewing your work
 1. Click "Create repository from template"
@@ -23,7 +23,7 @@ In this step, your team of one will become a team of two so I can view your code
 1. From your repository, click on the "Setting" tab
 1. Choose "Collaborators" from the left navigation
 1. If prompted, reenter your GitHub password
-1. Enter ``jeff-anderson-cscc`` in the "Search by username" field then click "Add collaborator"
+1. Enter ``jschmersal-cscc`` in the "Search by username" field then click "Add collaborator"
 
 Once you add me, you should see my name and picture in the "Collaborators" section at the top of the page and the bottom of the page should show, "1 of 3 collaborators".
 
@@ -39,7 +39,7 @@ In this step, you will create a new project in IntelliJ by checking out the code
 1. In the Welcome screen, choose "Checkout from version control"
 1. Choose "Git"
 1. Paste the URL you copied in step 2 into the "Clone Repository" dialog URL field
-1. Review and, if you wish, change the location in the "Directory" field to something like ``/home/your-user-name-here/java-iv-labs/lab0-completing-and-submitting-assignments`` where "your-user-name-here" is the username you use to login to workspaces which, for me, is "janderson141" so my directory is: ``/home/janderson141/java-iv-labs/lab0-completing-and-submitting-assignments``
+1. Review and, if you wish, change the location in the "Directory" field to something like ``/home/your-user-name-here/special-topics-labs/lab0-completing-and-submitting-assignments`` where "your-user-name-here" is the username you use to login to workspaces which, for me, is "jschmersal12" so my directory is: ``/home/jschmersal12/special-topics-labs/lab0-completing-and-submitting-assignments``
 1. Click "Clone" to clone your repository
 1. If prompted, enter your GitHub user name and password
 1. If you get an, "Unlock Keyring" dialog, enter the password you use to login to AWS Workspaces
