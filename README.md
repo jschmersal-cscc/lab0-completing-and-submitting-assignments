@@ -1,6 +1,6 @@
 # Completing and Submitting Coding Assignments Lab
 
-**Note:** A video walk-through of this assignment entitled, *Process for Completing and Submitting Coding Assignments*, is available in Blackboard under Special Topics in Software Engineering -> Our Classroom -> Before you begin.
+**Note:** A video walk-through of this assignment entitled, *Process for Completing and Submitting Coding Assignments*, is available in Blackboard under `Our Classroom -> Before you begin`.
 
 # Instructions
 
@@ -95,18 +95,15 @@ Your work will be considered on time or not based on commit timestamps in GitHub
 
 While GitHub is used for reviewing and grading your work, Columbus State needs an audit trail to show you have successfully completed the assignment. This step is also necessary to be given your official grade in Blackboard. 
 
-From your AWS Workspace:
+From your workspace:
 
-1. Using the file explorer under "Places", navigate to the parent directory of where you created your IntelliJ project
-1. Right click on the project folder name then choose "Compress"
-1. **Important:** Choose ".zip" for the file format
-1. Press "Create"
-1. If necessary, Login to Blackboard
+1. From the command line at the root directory of your project, execute the following command:
+    `git bundle create <firstname>-<lastname>-gitcommandline-<date>.bundle --all`
+
+_Note:_ `<firstname>` and `<lastname>` are your first and last names, and `<date>` is in `mmddyyyy` format.
+1. Remember to add the link to your GitHub pull request, and the bundle file created in step 1 above, to this submission.
 1. Navigate to the assignment in Blackboard
-1. Under "assignment Submission", choose "Write Submission"
-1. Paste a link to your GitHub repository pull request in the editor field
-1. Click "Browse My Computer" in the "Attach Files" section choosing the ZIP files you just created
-1. Click "Submit" and follow all Blackboard instructions to complete the submission process
+1. When ready, click `UPLOAD`, attach all applicable files, and click `SUBMIT`.
 
 ## Getting help
 
